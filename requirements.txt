@@ -1,0 +1,4 @@
+discord.py==2.3.2
+aiohttp==3.9.1
+deep-translator==1.11.4
+python-dotenv==1.0.0
